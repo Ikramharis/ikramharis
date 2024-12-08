@@ -1,16 +1,14 @@
-## 🌐 Software Engineer | Problem Solver | Innovator  
+# Hi there! 👋  
 
-- 🚀 **Trailblazer in Project Involvement**  
-   Fueled by passion and precision, I contribute to impactful projects, transforming ideas into scalable solutions that make a difference.  
+Welcome to my GitHub profile. I'm passionate about coding, building projects, and learning new technologies.  
 
-- 🎯 **Technical Lead for University Projects**  
-   Thrived as a leader, guiding teams through challenges, fostering collaboration, and ensuring the success of ambitious university-driven initiatives.  
+## 📊 GitHub Stats  
 
-- 🛠️ **Guardian of Legacy Codebases**  
-   Expert in breathing new life into aging code—debugging, optimizing, and modernizing systems to adapt to evolving technological landscapes.  
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikramharis&show_icons=true&theme=radical)  
 
-### 🔗 Let’s Connect!  
-- 📂 [Explore My Work](#)  
-- 💬 [Let’s Collaborate](#)  
+## 🔍 Top Languages  
 
-“Every line of code is a step toward building the future.”
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramharis&layout=compact&theme=radical)  
+
+Let’s build something amazing together! 🚀
+
